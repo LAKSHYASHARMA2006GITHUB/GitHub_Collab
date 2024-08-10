@@ -1,3 +1,3 @@
 # Hi there👋,I'm Lakshya sharma
 
-this project was created from this repo.
+this project was created for this repo.
